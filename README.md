@@ -33,7 +33,6 @@ I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlp
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" alt="" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg" title="DevIcon" alt="" width="40" height="40"/>&nbsp;
-
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="background-color='white';" title="" alt="" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="hibernate" alt="" width="40" height="40"/>&nbsp;
@@ -59,7 +58,7 @@ I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlp
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px">  GitHub Stats 
 <div align="center">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Hchaymae&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" height="175">](https://github-readme-stats.vercel.app/api?username=Elmehdi27mi)
+[<img src="https://github-readme-stats.vercel.app/api?username=Elmehdi27mi&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" height="175">](https://github-readme-stats.vercel.app/api?username=Elmehdi27mi)
 <img height="175" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmehdi27mi&hide_progress=true&hide=html&hide_title=false&hide_border=true&layout=compact&theme=dracula" />
 
 </div>
